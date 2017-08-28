@@ -1,0 +1,14 @@
+1. 로딩화면 (Splash Activity)
+2. 로그인 화면
+3. 회원가입화면
+4. 회원 목록 (이름)
+MainActivity => ListView => 
+
+로그인 버튼을 눌러도 MainActivity로 넘어가자
+회원가입이 완료되면 MainActivity로 넘어가자
+MainActivity에서 뒤로가기 버튼을 누르면
+앱이 종료되도록
+
+5. 회원 정보 수정
+
+=> 학원 수강생 관리
